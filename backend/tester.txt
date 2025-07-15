@@ -1,0 +1,560 @@
+=== Testing Comprehensive CNXML Parser ===
+
+--- Testing Module: m66427 ---
+✓ Module: The Science of Biology
+  ID: m66427
+  Metadata: {'title': 'The Science of Biology', 'content_id': 'm66427', 'uuid': 'ce6cfde4-1ac3-480f-aa0f-4777111f9e23'}
+  Learning objectives: 4
+    1. Identify the shared characteristics of the natural sciences
+    2. Summarize the steps of the scientific method
+    3. Compare inductive reasoning with deductive reasoning
+  Sections: 9
+    Section 1: Main Content (type: regular)
+      Content: 1 paragraphs
+      Figures: 2
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 2: The Process of Science (type: regular)
+      Content: 3 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 2
+        Subsection 1: Natural Sciences (type: regular)
+          Content: 3 paragraphs
+          Figures: 1
+          Tables: 0
+          Lists: 0
+          Notes: 0
+          Exercises: 0
+        Subsection 2: Scientific Reasoning (type: regular)
+          Content: 4 paragraphs
+          Figures: 0
+          Tables: 0
+          Lists: 0
+          Notes: 0
+          Exercises: 0
+    Section 3: The Scientific Method (type: regular)
+      Content: 2 paragraphs
+      Figures: 1
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 2
+        Subsection 1: Proposing a Hypothesis (type: regular)
+          Content: 2 paragraphs
+          Figures: 0
+          Tables: 0
+          Lists: 0
+          Notes: 0
+          Exercises: 0
+        Subsection 2: Testing a Hypothesis (type: regular)
+          Content: 4 paragraphs
+          Figures: 2
+          Tables: 1
+          Lists: 1
+          Notes: 2
+          Exercises: 0
+    Section 4: Two Types of Science: Basic Science and Applied Science (type: regular)
+      Content: 7 paragraphs
+      Figures: 2
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 5: Reporting Scientific Work (type: regular)
+      Content: 8 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 1
+        Subsection 1: Scientific Ethics (type: regular)
+          Content: 7 paragraphs
+          Figures: 0
+          Tables: 0
+          Lists: 0
+          Notes: 0
+          Exercises: 0
+    Section 6: Section Summary (type: summary)
+      Content: 3 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 7: Visual Connection Questions (type: visual-exercise)
+      Content: 0 paragraphs
+      Figures: 0
+      Tables: 1
+      Lists: 1
+      Notes: 0
+      Exercises: 2
+      Subsections: 0
+    Section 8: Review Questions (type: multiple-choice)
+      Content: 0 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 6
+      Notes: 0
+      Exercises: 6
+      Subsections: 0
+    Section 9: Critical Thinking Questions (type: critical-thinking)
+      Content: 0 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 4
+      Subsections: 0
+  All figures: 8
+    Figure 1: fig-ch01_01_01 (class: )
+      Caption: Formerly called blue-green algae, these (a) cyanobacteria, magnified 300x under a light microscope, ...
+      Media files: 1
+      Media: ../../media/Figure_01_01_01-3978.jpg
+    Figure 2: fig-ch01_01_02 (class: )
+      Caption: Escherichia coli ( E. coli ) bacteria, in this scanning electron micrograph, are normal residents of...
+      Media files: 1
+      Media: ../../media/Figure_01_01_02-db21.jpg
+    Figure 3: fig-ch01_01_03 (class: )
+      Caption: The diversity of scientific fields includes astronomy, biology, computer science, geology, logic, ph...
+      Media files: 1
+      Media: ../../media/Figure_01_01_03.png
+    Figure 4: fig-ch01_01_04 (class: )
+      Caption: Historians credit Sir Francis Bacon (1561–1626) as the first to define the scientific method. (credi...
+      Media files: 1
+      Media: ../../media/Figure_01_01_04-8ef9.jpg
+    Figure 5: fig-ch01_01_05 (class: )
+      Caption: The scientific method consists of a series of well-defined steps. If a hypothesis is not supported b...
+      Media files: 1
+      Media: ../../media/Figure_01_01_05-9aa6.jpg
+    Figure 6: fig-ch01_01_06 (class: )
+      Caption: Scientists use two types of reasoning, inductive and deductive reasoning, to advance scientific know...
+      Media files: 1
+      Media: ../../media/Figure_01_01_09new.png
+    Figure 7: fig-ch01_01_07 (class: )
+      Caption: After Hurricane Irma struck the Caribbean and Florida in 2017, thousands of baby squirrels like this...
+      Media files: 1
+      Media: ../../media/Figure_01_01_08.png
+    Figure 8: fig-ch01_01_08 (class: )
+      Caption: The Human Genome Project was a 13-year collaborative effort among researchers working in several dif...
+      Media files: 1
+      Media: ../../media/Figure_01_01_07.jpg
+  All exercises: 12
+    Exercise 1: fs-id1889238
+      Problem: In the example below, the scientific method is used to solve an everyday problem. Match the scientif...
+      Has solution: True
+      Has commentary: False
+    Exercise 2: fs-id1595691
+      Problem: Decide if each of the following is an example of inductive or deductive reasoning. 
+ 
+ All flying bi...
+      Has solution: True
+      Has commentary: False
+    Exercise 3: fs-id2197874
+      Problem: The first forms of life on Earth were ________. 
+ 
+ plants 
+ microorganisms 
+ birds 
+ dinosaurs...
+      Has solution: True
+      Has commentary: False
+    Exercise 4: fs-id1260889
+      Problem: A suggested and testable explanation for an event is called a ________. 
+ 
+ hypothesis 
+ variable 
+ ...
+      Has solution: True
+      Has commentary: False
+    Exercise 5: fs-id1512007
+      Problem: Which of the following sciences is not considered a natural science? 
+ 
+ biology 
+ astronomy 
+ physi...
+      Has solution: True
+      Has commentary: False
+    Exercise 6: fs-id1967894
+      Problem: The type of logical thinking that uses related observations to arrive at a general conclusion is cal...
+      Has solution: True
+      Has commentary: False
+    Exercise 7: fs-id1694297
+      Problem: The process of ________ helps to ensure that a scientist’s research is original, significant, logica...
+      Has solution: True
+      Has commentary: False
+    Exercise 8: fs-id2739507
+      Problem: A person notices that her houseplants that are regularly exposed to music seem to grow more quickly ...
+      Has solution: True
+      Has commentary: False
+    Exercise 9: fs-id2171449
+      Problem: Although the scientific method is used by most of the sciences, it can also be applied to everyday s...
+      Has solution: True
+      Has commentary: False
+    Exercise 10: fs-id2273326
+      Problem: Give an example of how applied science has had a direct
+effect on your daily life....
+      Has solution: True
+      Has commentary: False
+    Exercise 11: fs-id2062496
+      Problem: Name two topics that are likely to be studied by biologists, and two areas of scientific study that ...
+      Has solution: True
+      Has commentary: False
+    Exercise 12: fs-id2862427
+      Problem: Thinking about the topic of cancer, write a basic science question and an applied science question t...
+      Has solution: True
+      Has commentary: False
+  Definitions: 27
+    Definition 1: abstract
+      Meaning: opening section of a scientific paper that summarizes the research and conclusions...
+    Definition 2: applied science
+      Meaning: form of science that aims to solve real-world problems...
+    Definition 3: basic science
+      Meaning: science that seeks to expand knowledge and understanding regardless of the short-term application of...
+  Glossary terms: 27
+    Term 1: abstract
+      Meaning: opening section of a scientific paper that summarizes the research and conclusions...
+    Term 2: applied science
+      Meaning: form of science that aims to solve real-world problems...
+    Term 3: basic science
+      Meaning: science that seeks to expand knowledge and understanding regardless of the short-term application of...
+  Flattened content length: 48389 characters
+  Content preview: Title: The Science of Biology
+
+Learning Objectives:
+
+- Identify the shared characteristics of the natural sciences
+
+- Summarize the steps of the scientific method
+
+- Compare inductive reasoning with d...
+
+
+--- Testing Module: m66428 ---
+✓ Module: Themes and Concepts of Biology
+  ID: m66428
+  Metadata: {'title': 'Themes and Concepts of Biology', 'content_id': 'm66428', 'uuid': '07dbec85-8530-4911-b863-5d73b5d7e211'}
+  Learning objectives: 4
+    1. Identify and describe the properties of life
+    2. Describe the levels of organization among living things
+    3. Recognize and interpret a phylogenetic tree
+  Sections: 9
+    Section 1: Main Content (type: regular)
+      Content: 2 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 2: Properties of Life (type: regular)
+      Content: 1 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 8
+    Section 3: Levels of Organization of Living Things (type: regular)
+      Content: 4 paragraphs
+      Figures: 2
+      Tables: 0
+      Lists: 1
+      Notes: 2
+      Exercises: 0
+      Subsections: 0
+  All figures: 11
+    Figure 1: fig-ch01_02_01 (class: )
+      Caption: A toad represents a highly organized structure consisting of cells, tissues, organs, and organ syste...
+      Media files: 1
+      Media: ../../media/Figure_01_02_09.jpg
+    Figure 2: fig-ch01_02_02 (class: )
+      Caption: The leaves of this sensitive plant ( Mimosa pudica ) will instantly droop and fold when touched. Aft...
+      Media files: 1
+      Media: ../../media/Figure_01_02_10.jpg
+    Figure 3: fig-ch01_02_03 (class: )
+      Caption: Although no two look alike, these kittens have inherited genes from both parents and share many of t...
+      Media files: 1
+      Media: ../../media/Figure_01_02_11.jpg
+  All exercises: 11
+    Exercise 1: fs-id1690230
+      Problem: Which of the following statements is false? 
+ 
+ Tissues exist within organs which exist within organ...
+      Has solution: True
+      Has commentary: False
+    Exercise 2: fs-id2575162
+      Problem: The smallest unit of biological structure that meets the functional requirements of “living” is the ...
+      Has solution: True
+      Has commentary: False
+    Exercise 3: fs-id3095300
+      Problem: Viruses are not considered living because they ________. 
+ 
+ are not made of cells 
+ lack cell nucle...
+      Has solution: True
+      Has commentary: False
+  Definitions: 25
+    Definition 1: atom
+      Meaning: smallest and most fundamental unit of matter that retains the properties of an element...
+    Definition 2: biochemistry
+      Meaning: study of the chemistry of biological organisms...
+    Definition 3: biosphere
+      Meaning: collection of all the ecosystems on Earth...
+  Glossary terms: 25
+    Term 1: atom
+      Meaning: smallest and most fundamental unit of matter that retains the properties of an element...
+    Term 2: biochemistry
+      Meaning: study of the chemistry of biological organisms...
+    Term 3: biosphere
+      Meaning: collection of all the ecosystems on Earth...
+  Flattened content length: 31957 characters
+  Content preview: Title: Themes and Concepts of Biology
+
+Learning Objectives:
+
+- Identify and describe the properties of life
+
+- Describe the levels of organization among living things
+
+- Recognize and interpret a phyl...
+
+
+--- Testing Module: m66430 ---
+✓ Module: Atoms, Isotopes, Ions, and Molecules: The Building Blocks
+  ID: m66430
+  Metadata: {'title': 'Atoms, Isotopes, Ions, and Molecules: The Building Blocks', 'content_id': 'm66430', 'uuid': 'c555a265-6305-4b1a-be14-c4b1e853ac89'}
+  Learning objectives: 4
+    1. Define matter and elements
+    2. Describe the interrelationship between protons, neutrons, and electrons
+    3. Compare the ways in which electrons can be donated or shared between atoms
+  Sections: 14
+    Section 1: Main Content (type: regular)
+      Content: 3 paragraphs
+      Figures: 0
+      Tables: 1
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 2: The Structure of the Atom (type: regular)
+      Content: 4 paragraphs
+      Figures: 1
+      Tables: 1
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 3: Atomic Number and Mass (type: regular)
+      Content: 1 paragraphs
+      Figures: 1
+      Tables: 0
+      Lists: 0
+      Notes: 1
+      Exercises: 0
+      Subsections: 0
+  All figures: 11
+    Figure 1: fig-ch02_01_01 (class: )
+      Caption: Elements, such as helium, depicted here, are made up of atoms. Atoms are made up of protons and neut...
+      Media files: 1
+      Media: ../../media/Figure_02_01_01-7c45.jpg
+    Figure 2: fig-ch02_01_02 (class: )
+      Caption: Carbon has an atomic number of six, and two stable isotopes with mass numbers of twelve and thirteen...
+      Media files: 1
+      Media: ../../media/Figure_02_01_03-carbon.jpg
+    Figure 3: fig-ch02_01_03 (class: )
+      Caption: Scientists can determine the age of carbon-containing remains less than about 50,000 years old, such...
+      Media files: 1
+      Media: ../../media/Figure_02_01_03-26c7.jpg
+  All exercises: 8
+    Exercise 1: fs-idp140338800661008
+      Problem: How many neutrons do carbon-12 and carbon-13 have, respectively?...
+      Has solution: True
+      Has commentary: False
+    Exercise 2: fs-idp140338805018064
+      Problem: An atom may give, take, or share electrons with another atom to achieve a full valence shell, the mo...
+      Has solution: True
+      Has commentary: False
+    Exercise 3: fs-idp140338796967024
+      Problem: If xenon has an atomic number of 54 and a mass number of 108, how many neutrons does it have? 
+ 
+ 54...
+      Has solution: True
+      Has commentary: False
+  Definitions: 44
+    Definition 1: anion
+      Meaning: negative ion that is formed by an atom gaining one or more electrons...
+    Definition 2: atom
+      Meaning: the smallest unit of matter that retains all of the chemical properties of an element...
+    Definition 3: atomic number
+      Meaning: total number of protons in an atom...
+  Glossary terms: 44
+    Term 1: anion
+      Meaning: negative ion that is formed by an atom gaining one or more electrons...
+    Term 2: atom
+      Meaning: the smallest unit of matter that retains all of the chemical properties of an element...
+    Term 3: atomic number
+      Meaning: total number of protons in an atom...
+  Flattened content length: 53304 characters
+  Content preview: Title: Atoms, Isotopes, Ions, and Molecules: The Building Blocks
+
+Learning Objectives:
+
+- Define matter and elements
+
+- Describe the interrelationship between protons, neutrons, and electrons
+
+- Compa...
+
+
+--- Testing Module: m66434 ---
+✓ Module: Water
+  ID: m66434
+  Metadata: {'title': 'Water', 'content_id': 'm66434', 'uuid': '7e2d0dde-7b2f-48e6-bbf6-f3dacbe4ce9d'}
+  Learning objectives: 4
+    1. Describe the properties of water that are critical to maintaining life
+    2. Explain why water is an excellent solvent
+    3. Provide examples of water’s cohesive and adhesive properties
+  Sections: 11
+    Section 1: Main Content (type: regular)
+      Content: 2 paragraphs
+      Figures: 0
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 2: Water’s Polarity (type: regular)
+      Content: 2 paragraphs
+      Figures: 1
+      Tables: 0
+      Lists: 0
+      Notes: 0
+      Exercises: 0
+      Subsections: 0
+    Section 3: Water’s States: Gas, Liquid, and Solid (type: regular)
+      Content: 3 paragraphs
+      Figures: 1
+      Tables: 0
+      Lists: 0
+      Notes: 1
+      Exercises: 0
+      Subsections: 0
+  All figures: 8
+    Figure 1: fig-ch02_02_01 (class: )
+      Caption: The polarity of water. The polarity of water is due to the differing electronegativities of hydrogen...
+      Media files: 1
+      Media: ../../media/Figure_02_02_01-54cd.jpg
+    Figure 2: fig-ch02_02_02 (class: )
+      Caption: Hydrogen bonding makes ice less dense than liquid water. The (a) lattice structure of ice makes it l...
+      Media files: 1
+      Media: ../../media/Figure_02_02_02-58f7.jpg
+    Figure 3: fig-ch02_02_03 (class: )
+      Caption: When we mix table salt (NaCl) in water, it forms spheres of hydration around the ions....
+      Media files: 1
+      Media: ../../media/Figure_02_02_03-096d.jpg
+  All exercises: 6
+    Exercise 1: fs-idm114093728
+      Problem: Which of the following statements is not true? 
+ 
+ Water is polar. 
+ Water stabilizes temperature. 
+...
+      Has solution: True
+      Has commentary: False
+    Exercise 2: fs-idp3290112
+      Problem: When acids are added to a solution, the pH should ________. 
+ 
+ decrease 
+ increase 
+ stay the same ...
+      Has solution: True
+      Has commentary: False
+    Exercise 3: fs-idm171817504
+      Problem: We call a molecule that binds up excess hydrogen ions in a solution a(n) ________. 
+ 
+ acid 
+ isotop...
+      Has solution: True
+      Has commentary: False
+  Definitions: 19
+    Definition 1: acid
+      Meaning: molecule that donates hydrogen ions and increases the concentration of hydrogen ions in a solution...
+    Definition 2: adhesion
+      Meaning: attraction between water molecules and other molecules...
+    Definition 3: base
+      Meaning: molecule that donates hydroxide ions or otherwise binds excess hydrogen ions and decreases the hydro...
+  Glossary terms: 19
+    Term 1: acid
+      Meaning: molecule that donates hydrogen ions and increases the concentration of hydrogen ions in a solution...
+    Term 2: adhesion
+      Meaning: attraction between water molecules and other molecules...
+    Term 3: base
+      Meaning: molecule that donates hydroxide ions or otherwise binds excess hydrogen ions and decreases the hydro...
+  Flattened content length: 28401 characters
+  Content preview: Title: Water
+
+Learning Objectives:
+
+- Describe the properties of water that are critical to maintaining life
+
+- Explain why water is an excellent solvent
+
+- Provide examples of water’s cohesive and ad...
+
+=== Testing Specific Content Types ===
+Module: The Science of Biology
+
+--- Text Content Analysis ---
+Total paragraphs: 24
+Total emphasis elements: 5
+Total terms in text: 17
+Total links: 5
+
+Sample paragraph:
+  Text: What is biology? In simple terms,  biology  is the study of life. This is a very broad definition because the scope of biology is vast. Biologists may study anything from the microscopic or submicrosc...
+  Emphasis: ['Escherichia coli', 'Salmonella']
+  Terms: ['biology']
+  Links: [{'text': '', 'target': 'fig-ch01_01_01', 'url': ''}, {'text': '', 'target': 'fig-ch01_01_02', 'url': ''}]
+
+--- Section Types ---
+  regular: 5
+  summary: 1
+  visual-exercise: 1
+  multiple-choice: 1
+  critical-thinking: 1
+=== Testing Educational Structure ===
+Analysis of 4 modules:
+  Sections: 33
+  Paragraphs: 76
+  Figures: 31
+  Tables: 3
+  Lists: 19
+  Notes: 10
+  Exercises: 31
+  Definitions: 96
+  Glossary Terms: 96
+
+Averages per module:
+  Sections: 8.2
+  Paragraphs: 19.0
+  Figures: 7.8
+  Tables: 0.8
+  Lists: 4.8
+  Notes: 2.5
+  Exercises: 7.8
+  Definitions: 24.0
+  Glossary Terms: 24.0
+=== Saving Sample Output ===
+✓ Sample output saved to sample_parsed_output.json
+✓ Flattened content sample saved to sample_flattened_content.txt

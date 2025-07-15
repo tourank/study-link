@@ -1,0 +1,24 @@
+{
+  "total_modules_tested": 0,
+  "successful_parses": 0,
+  "failed_parses": 0,
+  "validation_errors": [],
+  "content_statistics": {},
+  "edge_cases_tested": 2,
+  "performance_metrics": {
+    "modules_tested": 15,
+    "successful_parses": 15,
+    "success_rate": 1.0,
+    "avg_parse_time_seconds": 0.0006744543711344401,
+    "total_parse_time_seconds": 0.010116815567016602
+  },
+  "test_results": {
+    "Known Content Counts": true,
+    "Content Quality": true,
+    "XML Structure Handling": true,
+    "Edge Cases": true,
+    "Performance": true,
+    "Content Consistency": true
+  },
+  "overall_success": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "m66427",
+  "title": "The Science of Biology",
+  "metadata": {
+    "title": "The Science of Biology",
+    "content_id": "m66427",
+    "uuid": "ce6cfde4-1ac3-480f-aa0f-4777111f9e23"
+  },
+  "learning_objectives": [
+    "Identify the shared characteristics of the natural sciences",
+    "Summarize the steps of the scientific method",
+    "Compare inductive reasoning with deductive reasoning",
+    "Describe the goals of basic science and applied science"
+  ],
+  "section_count": 9,
+  "figure_count": 8,
+  "exercise_count": 12,
+  "definition_count": 27,
+  "glossary_count": 27,
+  "flattened_content_length": 48389,
+  "sample_section": {
+    "title": "Main Content",
+    "content_paragraphs": 1,
+    "section_type": "regular"
+  },
+  "sample_figure": {
+    "id": "fig-ch01_01_01",
+    "caption": "Formerly called blue-green algae, these (a) cyanobacteria, magnified 300x under a light microscope, are some of Earth\u2019s oldest life forms. These (b) stromatolites along the shores of Lake Thetis in We",
+    "media_count": 1
+  },
+  "sample_exercise": {
+    "id": "fs-id1889238",
+    "problem": "In the example below, the scientific method is used to solve an everyday problem. Match the scientific method steps (numbered items) with the process of solving the everyday problem (lettered items). ",
+    "has_solution": true
+  }
+}
